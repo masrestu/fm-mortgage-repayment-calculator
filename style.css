@@ -327,6 +327,7 @@ main {
 
 .section-header > .clear-all,
 .form .form-group > label,
+.form .form-group > .label,
 p {
     display: block;
     color: var(--slate-700);
